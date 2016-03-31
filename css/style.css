@@ -1,0 +1,51 @@
+body {
+  height: 100vh;
+  background-color: #a8a8a8;
+}
+
+h1 {
+  font-family: FontAwesome;
+}
+
+.btn {
+  margin-bottom: 10px;
+  width: 220px;
+  height: 50px;
+}
+
+.btn-primary {
+  font-size: 20px;
+  font-family: FontAwesome;
+  border-width: 0;
+}
+
+.well {
+  margin-bottom: 1px;
+}
+
+.subtext {
+  font-size: 1em;
+  font-style: italic;
+}
+
+#tweet {
+  border-width: 0;
+  background-color: #636363;
+}
+
+.fa-twitter {
+  color: #00b6f1;
+}
+
+.white-text {
+  color: white;
+  font-size: 20px;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 20px;
+}
